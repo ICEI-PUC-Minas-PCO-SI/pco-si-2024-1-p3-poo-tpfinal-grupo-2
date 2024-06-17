@@ -1,0 +1,17 @@
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\bin\Debug\net7.0-windows\Interface.exe
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\bin\Debug\net7.0-windows\Interface.deps.json
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\bin\Debug\net7.0-windows\Interface.runtimeconfig.json
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\bin\Debug\net7.0-windows\Interface.dll
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\bin\Debug\net7.0-windows\Interface.pdb
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.TelaInicial.resources
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.AssemblyInfo.cs
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.dll
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\refint\Interface.dll
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.pdb
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.genruntimeconfig.cache
+C:\Users\2953581\source\repos\UrnaEletronica\Interface\obj\Debug\net7.0-windows\ref\Interface.dll
