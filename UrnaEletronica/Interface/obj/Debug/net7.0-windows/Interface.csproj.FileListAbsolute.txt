@@ -32,4 +32,6 @@ C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronic
 C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.pdb
 C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.genruntimeconfig.cache
 C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\ref\Interface.dll
-C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.Urna.resources
+C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.Gerenciamento.resources
+C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.UrnaExecutivo.resources
+C:\Users\2953581\Source\Repos\pco-si-2024-1-p3-poo-tpfinal-grupo-2\UrnaEletronica\Interface\obj\Debug\net7.0-windows\Interface.UrnaLegislativo.resources

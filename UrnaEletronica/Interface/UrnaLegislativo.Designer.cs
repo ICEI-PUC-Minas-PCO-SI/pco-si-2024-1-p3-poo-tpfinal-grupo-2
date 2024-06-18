@@ -1,6 +1,6 @@
 ﻿namespace Interface
 {
-    partial class Urna
+    partial class UrnaLegislativo
     {
         /// <summary>
         /// Required designer variable.
@@ -99,6 +99,7 @@
             button12.TabIndex = 27;
             button12.Text = "BRANCO";
             button12.UseVisualStyleBackColor = false;
+            button12.Click += button12_Click;
             // 
             // button11
             // 

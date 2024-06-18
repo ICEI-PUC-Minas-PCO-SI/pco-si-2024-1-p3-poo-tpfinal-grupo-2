@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Interface
 {
-    public partial class UrnaLegislativo : Form
+    public partial class Gerenciamento : Form
     {
-        public UrnaLegislativo()
+        public Gerenciamento()
         {
             InitializeComponent();
-        }
-
-        private void button12_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
