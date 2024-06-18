@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Dados.Migrations
 {
     [DbContext(typeof(UrnaDbContext))]
-    [Migration("20240618173512_Initial")]
+    [Migration("20240618175707_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
