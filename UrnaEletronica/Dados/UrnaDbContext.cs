@@ -1,8 +1,13 @@
 ﻿using Microsoft.EntityFrameworkCore;
+
 namespace Dados
 {
     public class UrnaDbContext : DbContext
     {
+        public UrnaDbContext()
+        {
+
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             // connect to sqlite database

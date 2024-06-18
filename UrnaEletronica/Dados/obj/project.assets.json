@@ -622,6 +622,16 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -1421,6 +1431,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1429,7 +1444,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Proxies >= 7.0.7",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.7",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.7"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.7",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1464,7 +1480,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\2953581\\Source\\Repos\\pco-si-2024-1-p3-poo-tpfinal-grupo-2\\UrnaEletronica\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\2953581\\Source\\Repos\\pco-si-2024-1-p3-poo-tpfinal-grupo-2\\UrnaEletronica\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
