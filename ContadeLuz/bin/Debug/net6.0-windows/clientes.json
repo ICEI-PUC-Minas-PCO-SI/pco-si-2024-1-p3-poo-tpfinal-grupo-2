@@ -1,0 +1,86 @@
+[
+  {
+    "Cgc": "11091127697",
+    "Nome": "Lara Chaves",
+    "Tipo": "R",
+    "Instalacao": "1044983329",
+    "DadosEndereco": {
+      "Logradouro": "Blenda",
+      "Numero": "251",
+      "Bairro": "Camargos",
+      "Cidade": "Belo Horizonte",
+      "Estado": "MG",
+      "CEP": "30520240"
+    }
+  },
+  {
+    "Cgc": "77817525000149",
+    "Nome": "SS Estruturas Metálicas",
+    "Tipo": "C",
+    "Instalacao": "8807555316",
+    "DadosEndereco": {
+      "Logradouro": "Rua 12",
+      "Numero": "1",
+      "Bairro": "Barreiro",
+      "Cidade": "Belo Horizonte",
+      "Estado": "MG",
+      "CEP": "20520241"
+    }
+  },
+  {
+    "Cgc": "11091127698",
+    "Nome": "Teste",
+    "Tipo": "R",
+    "Instalacao": "6010353145",
+    "DadosEndereco": {
+      "Logradouro": "Teste",
+      "Numero": "2",
+      "Bairro": "Teste",
+      "Cidade": "Teste",
+      "Estado": "MS",
+      "CEP": "30520240"
+    }
+  },
+  {
+    "Cgc": "11091127598",
+    "Nome": "Testando",
+    "Tipo": "R",
+    "Instalacao": "8782833552",
+    "DadosEndereco": {
+      "Logradouro": "Rua Pipi",
+      "Numero": "2",
+      "Bairro": "Teste",
+      "Cidade": "BH",
+      "Estado": "MG",
+      "CEP": "30520240"
+    }
+  },
+  {
+    "Cgc": "11091127699",
+    "Nome": "Lucas",
+    "Tipo": "R",
+    "Instalacao": "2034872974",
+    "DadosEndereco": {
+      "Logradouro": "teste",
+      "Numero": "2",
+      "Bairro": "teste",
+      "Cidade": "teste",
+      "Estado": "AC",
+      "CEP": "22222222"
+    }
+  },
+  {
+    "Cgc": "11091127678",
+    "Nome": "Paula",
+    "Tipo": "R",
+    "Instalacao": "5173119475",
+    "DadosEndereco": {
+      "Logradouro": "Rua X",
+      "Numero": "",
+      "Bairro": "Bairro",
+      "Cidade": "BH",
+      "Estado": "MT",
+      "CEP": "30520333"
+    }
+  }
+]

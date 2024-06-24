@@ -1,0 +1,156 @@
+[
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "01-2024",
+        "Leitura": "100"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "08-2024",
+        "Leitura": "150"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "06-2024",
+        "Leitura": "200"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "03-2024",
+        "Leitura": "66"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "02-2024",
+        "Leitura": "1000"
+      }
+    }
+  },
+  {
+    "Cgc": "77817525000149",
+    "Tipo": "Comercial",
+    "DadosInstalacao": {
+      "Numero": "8807555316",
+      "DadosConta": {
+        "Mesref": "07-2024",
+        "Leitura": "10000"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "10-2024",
+        "Leitura": "1000"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127698",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "6010353145",
+      "DadosConta": {
+        "Mesref": "01-2024",
+        "Leitura": "1000000"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127698",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "6010353145",
+      "DadosConta": {
+        "Mesref": "05-2024",
+        "Leitura": "500"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127598",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "8782833552",
+      "DadosConta": {
+        "Mesref": "03-2024",
+        "Leitura": "100"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127699",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "2034872974",
+      "DadosConta": {
+        "Mesref": "02-2024",
+        "Leitura": "11"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127678",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "5173119475",
+      "DadosConta": {
+        "Mesref": "02-2024",
+        "Leitura": "100"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127678",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "5173119475",
+      "DadosConta": {
+        "Mesref": "05-2024",
+        "Leitura": "1000"
+      }
+    }
+  },
+  {
+    "Cgc": "11091127697",
+    "Tipo": "Residencial",
+    "DadosInstalacao": {
+      "Numero": "1044983329",
+      "DadosConta": {
+        "Mesref": "11-2024",
+        "Leitura": "120"
+      }
+    }
+  }
+]
